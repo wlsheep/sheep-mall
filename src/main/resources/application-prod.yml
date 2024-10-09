@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: sheep-mall-datasource
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/sheep_mall_db?useUnicode=true&serverTimezone=Asia/Shanghai&characterEncoding=utf8&autoReconnect=true&useSSL=false&allowMultiQueries=true&useAffectedRows=true
+    username: root
+    password: 123456789

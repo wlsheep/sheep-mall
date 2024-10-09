@@ -1,4 +1,4 @@
-package org.sheep.sheepmall;
+package com.sheep.sheepmall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: sheep-mall
+  profiles:
+    active: dev
+
+server:
+  port: 12345
+
+mybatis:
+  # mapper映射文件位置
+  mapper-locations: classpath:mapper/*Mapper.xml
